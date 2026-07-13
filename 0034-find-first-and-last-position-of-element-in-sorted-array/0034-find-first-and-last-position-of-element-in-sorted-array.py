@@ -1,11 +1,37 @@
-import bisect
-
 class Solution:
     def searchRange(self, nums: List[int], target: int) -> List[int]:
-        left = bisect.bisect_left(nums, target)
-        right = bisect.bisect_right(nums, target) - 1
+        def firstOccurrence():
+            low, high = 0, len(nums) - 1
+            ans = -1
 
-        if left == len(nums) or nums[left] != target:
-            return [-1, -1]
+            while low <= high:
+                mid = (low + high) // 2
 
-        return [left, right]
+                if nums[mid] == target:
+                    ans = mid
+                    high = mid - 1      # Search left
+                elif nums[mid] < target:
+                    low = mid + 1
+                else:
+                    high = mid - 1
+
+            return ans
+
+        def lastOccurrence():
+            low, high = 0, len(nums) - 1
+            ans = -1
+
+            while low <= high:
+                mid = (low + high) // 2
+
+                if nums[mid] == target:
+                    ans = mid
+                    low = mid + 1       # Search right
+                elif nums[mid] < target:
+                    low = mid + 1
+                else:
+                    high = mid - 1
+
+            return ans
+
+        return [firstOccurrence(), lastOccurrence()]
