@@ -26,4 +26,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0069-sqrtx) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/sattvikbhogade/leetcode-soln/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/sattvikbhogade/leetcode-soln/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
