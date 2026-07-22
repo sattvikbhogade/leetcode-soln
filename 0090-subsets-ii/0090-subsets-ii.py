@@ -1,0 +1,23 @@
+class Solution:
+    def print_subseq(self, i, v, nums, n, ans):
+        if i >= n:
+            ans.append(v[:]) 
+            return
+
+        # Pick
+        v.append(nums[i])
+        self.print_subseq(i + 1, v, nums, n, ans)
+
+        # Not pick
+        v.pop()
+
+        while i+1 < n and nums[i] == nums[i+1]:
+            i += 1
+
+        self.print_subseq(i + 1, v, nums, n, ans)
+    def subsetsWithDup(self, nums: List[int]) -> List[List[int]]:
+        nums.sort()
+        ans = []
+        self.print_subseq(0, [], nums, len(nums), ans)
+        return ans
+        
