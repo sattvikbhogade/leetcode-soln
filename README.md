@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0162-find-peak-element) |
+| [0216-combination-sum-iii](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0216-combination-sum-iii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0875-koko-eating-bananas) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0216-combination-sum-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
