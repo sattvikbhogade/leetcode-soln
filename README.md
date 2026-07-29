@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0039-combination-sum) |
@@ -116,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0443-string-compression](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0443-string-compression) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
