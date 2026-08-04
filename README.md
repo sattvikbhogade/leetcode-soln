@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sattvikbhogade/leetcode-soln/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sattvikbhogade/leetcode-soln/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sattvikbhogade/leetcode-soln/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sattvikbhogade/leetcode-soln/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/sattvikbhogade/leetcode-soln/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/sattvikbhogade/leetcode-soln/tree/master/1552-magnetic-force-between-two-balls) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0410-split-array-largest-sum) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sattvikbhogade/leetcode-soln/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Matrix
 |  |
 | ------- |
@@ -137,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0204-count-primes) |
+## Sliding Window
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sattvikbhogade/leetcode-soln/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
