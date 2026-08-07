@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0410-split-array-largest-sum) |
 | [0475-heaters](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0475-heaters) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0540-single-element-in-a-sorted-array) |
+| [0746-min-cost-climbing-stairs](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0746-min-cost-climbing-stairs) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sattvikbhogade/leetcode-soln/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0070-climbing-stairs) |
 | [0410-split-array-largest-sum](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0746-min-cost-climbing-stairs) |
 ## Greedy
 |  |
 | ------- |
