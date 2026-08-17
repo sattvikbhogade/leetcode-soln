@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sattvikbhogade/leetcode-soln/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/sattvikbhogade/leetcode-soln/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/sattvikbhogade/leetcode-soln/tree/master/1552-magnetic-force-between-two-balls) |
+| [1563-stone-game-v](https://github.com/sattvikbhogade/leetcode-soln/tree/master/1563-stone-game-v) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/sattvikbhogade/leetcode-soln/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1901-find-a-peak-element-ii](https://github.com/sattvikbhogade/leetcode-soln/tree/master/1901-find-a-peak-element-ii) |
 | [2029-stone-game-ix](https://github.com/sattvikbhogade/leetcode-soln/tree/master/2029-stone-game-ix) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0204-count-primes) |
 | [0509-fibonacci-number](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/sattvikbhogade/leetcode-soln/tree/master/1137-n-th-tribonacci-number) |
+| [1563-stone-game-v](https://github.com/sattvikbhogade/leetcode-soln/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/sattvikbhogade/leetcode-soln/tree/master/2029-stone-game-ix) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sattvikbhogade/leetcode-soln/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/sattvikbhogade/leetcode-soln/tree/master/1137-n-th-tribonacci-number) |
+| [1563-stone-game-v](https://github.com/sattvikbhogade/leetcode-soln/tree/master/1563-stone-game-v) |
 ## Greedy
 |  |
 | ------- |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [1563-stone-game-v](https://github.com/sattvikbhogade/leetcode-soln/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/sattvikbhogade/leetcode-soln/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
