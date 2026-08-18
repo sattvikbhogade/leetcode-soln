@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/sattvikbhogade/leetcode-soln/tree/master/2029-stone-game-ix) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/sattvikbhogade/leetcode-soln/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/sattvikbhogade/leetcode-soln/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/sattvikbhogade/leetcode-soln/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/sattvikbhogade/leetcode-soln/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Binary Search
 |  |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0001-two-sum) |
 | [0387-first-unique-character-in-a-string](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0387-first-unique-character-in-a-string) |
 | [0740-delete-and-earn](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0740-delete-and-earn) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/sattvikbhogade/leetcode-soln/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Enumeration
 |  |
 | ------- |
