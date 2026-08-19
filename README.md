@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0213-house-robber-ii) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0410-split-array-largest-sum) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0443-string-compression](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0475-heaters) |
