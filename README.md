@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/sattvikbhogade/leetcode-soln/tree/master/1563-stone-game-v) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/sattvikbhogade/leetcode-soln/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1901-find-a-peak-element-ii](https://github.com/sattvikbhogade/leetcode-soln/tree/master/1901-find-a-peak-element-ii) |
+| [1929-concatenation-of-array](https://github.com/sattvikbhogade/leetcode-soln/tree/master/1929-concatenation-of-array) |
 | [2029-stone-game-ix](https://github.com/sattvikbhogade/leetcode-soln/tree/master/2029-stone-game-ix) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/sattvikbhogade/leetcode-soln/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/sattvikbhogade/leetcode-soln/tree/master/2226-maximum-candies-allocated-to-k-children) |
@@ -247,4 +248,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/sattvikbhogade/leetcode-soln/tree/master/1971-find-if-path-exists-in-graph) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/sattvikbhogade/leetcode-soln/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
