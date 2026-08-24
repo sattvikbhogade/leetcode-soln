@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0387-first-unique-character-in-a-string) |
+| [1603-design-parking-system](https://github.com/sattvikbhogade/leetcode-soln/tree/master/1603-design-parking-system) |
 | [2029-stone-game-ix](https://github.com/sattvikbhogade/leetcode-soln/tree/master/2029-stone-game-ix) |
 ## Quicksort
 |  |
@@ -262,9 +263,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1603-design-parking-system](https://github.com/sattvikbhogade/leetcode-soln/tree/master/1603-design-parking-system) |
 | [1929-concatenation-of-array](https://github.com/sattvikbhogade/leetcode-soln/tree/master/1929-concatenation-of-array) |
 ## Counting Sort
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sattvikbhogade/leetcode-soln/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Design
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/sattvikbhogade/leetcode-soln/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
