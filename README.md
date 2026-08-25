@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/sattvikbhogade/leetcode-soln/tree/master/1563-stone-game-v) |
 | [1672-richest-customer-wealth](https://github.com/sattvikbhogade/leetcode-soln/tree/master/1672-richest-customer-wealth) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/sattvikbhogade/leetcode-soln/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
+| [1773-count-items-matching-a-rule](https://github.com/sattvikbhogade/leetcode-soln/tree/master/1773-count-items-matching-a-rule) |
 | [1901-find-a-peak-element-ii](https://github.com/sattvikbhogade/leetcode-soln/tree/master/1901-find-a-peak-element-ii) |
 | [1929-concatenation-of-array](https://github.com/sattvikbhogade/leetcode-soln/tree/master/1929-concatenation-of-array) |
 | [2029-stone-game-ix](https://github.com/sattvikbhogade/leetcode-soln/tree/master/2029-stone-game-ix) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0443-string-compression) |
 | [1528-shuffle-string](https://github.com/sattvikbhogade/leetcode-soln/tree/master/1528-shuffle-string) |
+| [1773-count-items-matching-a-rule](https://github.com/sattvikbhogade/leetcode-soln/tree/master/1773-count-items-matching-a-rule) |
 ## Hash Table
 |  |
 | ------- |
