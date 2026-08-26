@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0475-heaters) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0540-single-element-in-a-sorted-array) |
+| [0645-set-mismatch](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0645-set-mismatch) |
 | [0740-delete-and-earn](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0746-min-cost-climbing-stairs) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0090-subsets-ii) |
+| [0645-set-mismatch](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0645-set-mismatch) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/sattvikbhogade/leetcode-soln/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Sorting
 |  |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0475-heaters) |
+| [0645-set-mismatch](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sattvikbhogade/leetcode-soln/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/sattvikbhogade/leetcode-soln/tree/master/1552-magnetic-force-between-two-balls) |
 ## Dynamic Programming
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0001-two-sum) |
 | [0387-first-unique-character-in-a-string](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0387-first-unique-character-in-a-string) |
+| [0645-set-mismatch](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0645-set-mismatch) |
 | [0740-delete-and-earn](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0740-delete-and-earn) |
 | [0771-jewels-and-stones](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sattvikbhogade/leetcode-soln/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
