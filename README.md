@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0090-subsets-ii) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0056-merge-intervals) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0475-heaters) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0455-assign-cookies) |
 ## Minimax
 |  |
