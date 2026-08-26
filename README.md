@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0216-combination-sum-iii) |
+| [0228-summary-ranges](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0228-summary-ranges) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0240-search-a-2d-matrix-ii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
