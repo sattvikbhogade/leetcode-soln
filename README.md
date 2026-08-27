@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0012-integer-to-roman) |
 | [0069-sqrtx](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0204-count-primes) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0012-integer-to-roman) |
 | [0387-first-unique-character-in-a-string](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0443-string-compression) |
 | [0771-jewels-and-stones](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0771-jewels-and-stones) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0012-integer-to-roman) |
 | [0387-first-unique-character-in-a-string](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0387-first-unique-character-in-a-string) |
 | [0645-set-mismatch](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0645-set-mismatch) |
 | [0740-delete-and-earn](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0740-delete-and-earn) |
