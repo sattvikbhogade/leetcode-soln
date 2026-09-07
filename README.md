@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0216-combination-sum-iii) |
 | [0228-summary-ranges](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0228-summary-ranges) |
+| [0238-product-of-array-except-self](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0240-search-a-2d-matrix-ii) |
 | [0274-h-index](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0275-h-index-ii) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0410-split-array-largest-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sattvikbhogade/leetcode-soln/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/sattvikbhogade/leetcode-soln/tree/master/1480-running-sum-of-1d-array) |
