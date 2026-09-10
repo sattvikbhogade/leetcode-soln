@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0213-house-robber-ii) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0056-merge-intervals) |
+| [0169-majority-element](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0274-h-index) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0455-assign-cookies) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0240-search-a-2d-matrix-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0387-first-unique-character-in-a-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0645-set-mismatch) |
@@ -267,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0387-first-unique-character-in-a-string) |
 | [1603-design-parking-system](https://github.com/sattvikbhogade/leetcode-soln/tree/master/1603-design-parking-system) |
 | [2029-stone-game-ix](https://github.com/sattvikbhogade/leetcode-soln/tree/master/2029-stone-game-ix) |
@@ -330,4 +335,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0287-find-the-duplicate-number) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
