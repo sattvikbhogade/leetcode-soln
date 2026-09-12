@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/sattvikbhogade/leetcode-soln/tree/master/2029-stone-game-ix) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/sattvikbhogade/leetcode-soln/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/sattvikbhogade/leetcode-soln/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2601-prime-subtraction-operation](https://github.com/sattvikbhogade/leetcode-soln/tree/master/2601-prime-subtraction-operation) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sattvikbhogade/leetcode-soln/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/sattvikbhogade/leetcode-soln/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sattvikbhogade/leetcode-soln/tree/master/3875-construct-uniform-parity-array-i) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/sattvikbhogade/leetcode-soln/tree/master/1901-find-a-peak-element-ii) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/sattvikbhogade/leetcode-soln/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/sattvikbhogade/leetcode-soln/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2601-prime-subtraction-operation](https://github.com/sattvikbhogade/leetcode-soln/tree/master/2601-prime-subtraction-operation) |
 ## Math
 |  |
 | ------- |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sattvikbhogade/leetcode-soln/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1563-stone-game-v](https://github.com/sattvikbhogade/leetcode-soln/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/sattvikbhogade/leetcode-soln/tree/master/2029-stone-game-ix) |
+| [2601-prime-subtraction-operation](https://github.com/sattvikbhogade/leetcode-soln/tree/master/2601-prime-subtraction-operation) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sattvikbhogade/leetcode-soln/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3870-count-commas-in-range](https://github.com/sattvikbhogade/leetcode-soln/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/sattvikbhogade/leetcode-soln/tree/master/3871-count-commas-in-range-ii) |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0204-count-primes) |
+| [2601-prime-subtraction-operation](https://github.com/sattvikbhogade/leetcode-soln/tree/master/2601-prime-subtraction-operation) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sattvikbhogade/leetcode-soln/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Backtracking
 |  |
@@ -180,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0455-assign-cookies) |
 | [2029-stone-game-ix](https://github.com/sattvikbhogade/leetcode-soln/tree/master/2029-stone-game-ix) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/sattvikbhogade/leetcode-soln/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2601-prime-subtraction-operation](https://github.com/sattvikbhogade/leetcode-soln/tree/master/2601-prime-subtraction-operation) |
 ## Prefix Sum
 |  |
 | ------- |
