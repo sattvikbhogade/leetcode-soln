@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0746-min-cost-climbing-stairs) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0875-koko-eating-bananas) |
+| [0904-fruit-into-baskets](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/sattvikbhogade/leetcode-soln/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sattvikbhogade/leetcode-soln/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1089-duplicate-zeros](https://github.com/sattvikbhogade/leetcode-soln/tree/master/1089-duplicate-zeros) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0645-set-mismatch) |
 | [0740-delete-and-earn](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0740-delete-and-earn) |
 | [0771-jewels-and-stones](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0771-jewels-and-stones) |
+| [0904-fruit-into-baskets](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0904-fruit-into-baskets) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sattvikbhogade/leetcode-soln/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sattvikbhogade/leetcode-soln/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Enumeration
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0904-fruit-into-baskets](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/sattvikbhogade/leetcode-soln/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sattvikbhogade/leetcode-soln/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Recursion
