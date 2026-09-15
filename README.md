@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0240-search-a-2d-matrix-ii) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0125-valid-palindrome) |
 | [0273-integer-to-english-words](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0273-integer-to-english-words) |
 | [0387-first-unique-character-in-a-string](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0387-first-unique-character-in-a-string) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0443-string-compression](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0443-string-compression) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0771-jewels-and-stones](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0771-jewels-and-stones) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0387-first-unique-character-in-a-string) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0645-set-mismatch) |
 | [0740-delete-and-earn](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0740-delete-and-earn) |
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0904-fruit-into-baskets](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/sattvikbhogade/leetcode-soln/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sattvikbhogade/leetcode-soln/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
