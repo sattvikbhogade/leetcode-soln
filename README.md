@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0274-h-index) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0455-assign-cookies) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0273-integer-to-english-words) |
 | [0387-first-unique-character-in-a-string](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0387-first-unique-character-in-a-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0387-first-unique-character-in-a-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0599-minimum-index-sum-of-two-lists) |
