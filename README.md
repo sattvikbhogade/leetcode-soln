@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0216-combination-sum-iii) |
+| [0217-contains-duplicate](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0240-search-a-2d-matrix-ii) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0274-h-index) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0387-first-unique-character-in-a-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
