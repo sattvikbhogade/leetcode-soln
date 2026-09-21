@@ -1,21 +1,20 @@
 class Solution:
     def maxScore(self, cardPoints: List[int], k: int) -> int:
         n = len(cardPoints)
-        currSum = 0 
-        for i in range(k):
-            currSum += cardPoints[i] 
+        totalSum = sum(cardPoints)
+        
+        if k == n:
+            return totalSum
 
-        maxSum = currSum 
+        windowLength = n - k
+        windowSum = 0
+        minSum = totalSum
 
-        left = k - 1 
-        right = n - 1 
+        for i in range(n):
+            windowSum += cardPoints[i]
+            if i >= windowLength:
+                windowSum -= cardPoints[i - windowLength]
+            if i >= windowLength - 1:
+                minSum = min(minSum, windowSum)
 
-        while left >= 0:
-            currSum -= cardPoints[left] 
-            currSum += cardPoints[right]
-
-            maxSum = max(maxSum, currSum)
-
-            left -= 1 
-            right -= 1
-        return maxSum
+        return totalSum - minSum
