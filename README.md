@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0273-integer-to-english-words) |
 | [0387-first-unique-character-in-a-string](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0387-first-unique-character-in-a-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0443-string-compression) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0709-to-lower-case](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0709-to-lower-case) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0387-first-unique-character-in-a-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0424-longest-repeating-character-replacement) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0645-set-mismatch) |
 | [0740-delete-and-earn](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0740-delete-and-earn) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/sattvikbhogade/leetcode-soln/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sattvikbhogade/leetcode-soln/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
