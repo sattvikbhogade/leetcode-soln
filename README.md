@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/sattvikbhogade/leetcode-soln/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/sattvikbhogade/leetcode-soln/tree/master/1552-magnetic-force-between-two-balls) |
 | [1563-stone-game-v](https://github.com/sattvikbhogade/leetcode-soln/tree/master/1563-stone-game-v) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sattvikbhogade/leetcode-soln/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1672-richest-customer-wealth](https://github.com/sattvikbhogade/leetcode-soln/tree/master/1672-richest-customer-wealth) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/sattvikbhogade/leetcode-soln/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1773-count-items-matching-a-rule](https://github.com/sattvikbhogade/leetcode-soln/tree/master/1773-count-items-matching-a-rule) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sattvikbhogade/leetcode-soln/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/sattvikbhogade/leetcode-soln/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/sattvikbhogade/leetcode-soln/tree/master/1552-magnetic-force-between-two-balls) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sattvikbhogade/leetcode-soln/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/sattvikbhogade/leetcode-soln/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1901-find-a-peak-element-ii](https://github.com/sattvikbhogade/leetcode-soln/tree/master/1901-find-a-peak-element-ii) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/sattvikbhogade/leetcode-soln/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/sattvikbhogade/leetcode-soln/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sattvikbhogade/leetcode-soln/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/sattvikbhogade/leetcode-soln/tree/master/1480-running-sum-of-1d-array) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sattvikbhogade/leetcode-soln/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3903-smallest-stable-index-i](https://github.com/sattvikbhogade/leetcode-soln/tree/master/3903-smallest-stable-index-i) |
 ## Matrix
 |  |
@@ -272,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0904-fruit-into-baskets) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sattvikbhogade/leetcode-soln/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sattvikbhogade/leetcode-soln/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sattvikbhogade/leetcode-soln/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Enumeration
 |  |
@@ -286,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/sattvikbhogade/leetcode-soln/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sattvikbhogade/leetcode-soln/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sattvikbhogade/leetcode-soln/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Recursion
 |  |
 | ------- |
