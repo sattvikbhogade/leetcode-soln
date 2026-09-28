@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0273-integer-to-english-words) |
@@ -386,9 +387,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sattvikbhogade/leetcode-soln/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sattvikbhogade/leetcode-soln/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
