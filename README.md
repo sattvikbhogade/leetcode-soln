@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0771-jewels-and-stones) |
 | [1528-shuffle-string](https://github.com/sattvikbhogade/leetcode-soln/tree/master/1528-shuffle-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sattvikbhogade/leetcode-soln/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1773-count-items-matching-a-rule](https://github.com/sattvikbhogade/leetcode-soln/tree/master/1773-count-items-matching-a-rule) |
 ## Hash Table
 |  |
@@ -382,4 +383,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0169-majority-element) |
+## Stack
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sattvikbhogade/leetcode-soln/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sattvikbhogade/leetcode-soln/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
