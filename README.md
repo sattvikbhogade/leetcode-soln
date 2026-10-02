@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0046-permutations) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0273-integer-to-english-words) |
@@ -398,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0022-generate-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sattvikbhogade/leetcode-soln/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sattvikbhogade/leetcode-soln/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
