@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0410-split-array-largest-sum](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0678-valid-parenthesis-string) |
 | [0740-delete-and-earn](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/sattvikbhogade/leetcode-soln/tree/master/1137-n-th-tribonacci-number) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0134-gas-station) |
 | [0410-split-array-largest-sum](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2029-stone-game-ix](https://github.com/sattvikbhogade/leetcode-soln/tree/master/2029-stone-game-ix) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/sattvikbhogade/leetcode-soln/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0443-string-compression) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0678-valid-parenthesis-string](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0771-jewels-and-stones) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -394,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sattvikbhogade/leetcode-soln/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sattvikbhogade/leetcode-soln/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -402,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sattvikbhogade/leetcode-soln/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sattvikbhogade/leetcode-soln/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sattvikbhogade/leetcode-soln/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
